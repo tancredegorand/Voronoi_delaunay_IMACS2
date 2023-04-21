@@ -1,0 +1,4 @@
+brew install cmake
+cmake . 
+make
+bin/VoronoiApp
